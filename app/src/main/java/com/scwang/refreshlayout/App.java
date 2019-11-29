@@ -22,6 +22,7 @@ import com.squareup.leakcanary.LeakCanary;
  */
 public class App extends Application {
 
+    
     static {
         //启用矢量图兼容
         AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
